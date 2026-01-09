@@ -1,2 +1,2 @@
 # CSC200-SAMIUL
-Bla Bla Bla
+Here to learn Java
